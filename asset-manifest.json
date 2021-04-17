@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/darkpatterns/static/css/main.ab685f2a.chunk.css",
-    "main.js": "/darkpatterns/static/js/main.a471733d.chunk.js",
-    "main.js.map": "/darkpatterns/static/js/main.a471733d.chunk.js.map",
-    "runtime-main.js": "/darkpatterns/static/js/runtime-main.2c4d5225.js",
-    "runtime-main.js.map": "/darkpatterns/static/js/runtime-main.2c4d5225.js.map",
-    "static/js/2.e992ccb3.chunk.js": "/darkpatterns/static/js/2.e992ccb3.chunk.js",
-    "static/js/2.e992ccb3.chunk.js.map": "/darkpatterns/static/js/2.e992ccb3.chunk.js.map",
-    "static/js/3.2a634b2a.chunk.js": "/darkpatterns/static/js/3.2a634b2a.chunk.js",
-    "static/js/3.2a634b2a.chunk.js.map": "/darkpatterns/static/js/3.2a634b2a.chunk.js.map",
+    "main.css": "/darkpatterns/static/css/main.401ef9fc.chunk.css",
+    "main.js": "/darkpatterns/static/js/main.22086a0b.chunk.js",
+    "main.js.map": "/darkpatterns/static/js/main.22086a0b.chunk.js.map",
+    "runtime-main.js": "/darkpatterns/static/js/runtime-main.6776fc7c.js",
+    "runtime-main.js.map": "/darkpatterns/static/js/runtime-main.6776fc7c.js.map",
+    "static/css/2.558413a2.chunk.css": "/darkpatterns/static/css/2.558413a2.chunk.css",
+    "static/js/2.04317eb4.chunk.js": "/darkpatterns/static/js/2.04317eb4.chunk.js",
+    "static/js/2.04317eb4.chunk.js.map": "/darkpatterns/static/js/2.04317eb4.chunk.js.map",
+    "static/js/3.d66bc690.chunk.js": "/darkpatterns/static/js/3.d66bc690.chunk.js",
+    "static/js/3.d66bc690.chunk.js.map": "/darkpatterns/static/js/3.d66bc690.chunk.js.map",
     "index.html": "/darkpatterns/index.html",
-    "static/css/main.ab685f2a.chunk.css.map": "/darkpatterns/static/css/main.ab685f2a.chunk.css.map",
-    "static/js/2.e992ccb3.chunk.js.LICENSE.txt": "/darkpatterns/static/js/2.e992ccb3.chunk.js.LICENSE.txt"
+    "static/css/2.558413a2.chunk.css.map": "/darkpatterns/static/css/2.558413a2.chunk.css.map",
+    "static/css/main.401ef9fc.chunk.css.map": "/darkpatterns/static/css/main.401ef9fc.chunk.css.map",
+    "static/js/2.04317eb4.chunk.js.LICENSE.txt": "/darkpatterns/static/js/2.04317eb4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2c4d5225.js",
-    "static/js/2.e992ccb3.chunk.js",
-    "static/css/main.ab685f2a.chunk.css",
-    "static/js/main.a471733d.chunk.js"
+    "static/js/runtime-main.6776fc7c.js",
+    "static/css/2.558413a2.chunk.css",
+    "static/js/2.04317eb4.chunk.js",
+    "static/css/main.401ef9fc.chunk.css",
+    "static/js/main.22086a0b.chunk.js"
   ]
 }
