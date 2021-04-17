@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/darkpatterns/static/css/main.401ef9fc.chunk.css",
-    "main.js": "/darkpatterns/static/js/main.22086a0b.chunk.js",
-    "main.js.map": "/darkpatterns/static/js/main.22086a0b.chunk.js.map",
+    "main.js": "/darkpatterns/static/js/main.ca61539c.chunk.js",
+    "main.js.map": "/darkpatterns/static/js/main.ca61539c.chunk.js.map",
     "runtime-main.js": "/darkpatterns/static/js/runtime-main.6776fc7c.js",
     "runtime-main.js.map": "/darkpatterns/static/js/runtime-main.6776fc7c.js.map",
     "static/css/2.558413a2.chunk.css": "/darkpatterns/static/css/2.558413a2.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.558413a2.chunk.css",
     "static/js/2.04317eb4.chunk.js",
     "static/css/main.401ef9fc.chunk.css",
-    "static/js/main.22086a0b.chunk.js"
+    "static/js/main.ca61539c.chunk.js"
   ]
 }
